@@ -15,5 +15,5 @@ I'm a tech enthusiast currently pursuing my graduate studies in AI and data scie
 - 
 - ### 📫 Contact Me
 - **Email:** mailto:sshahi20@umd.edu
-- **LinkedIn:** linkedin.com/in/suryodaya-bikram-shahi-051a4b234
+- **LinkedIn:** linkedin.com/suryodaya-bikram-shahi
 - **Portfolio:** [YourWebsite.com](http://yourwebsite.com)
