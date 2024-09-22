@@ -14,6 +14,6 @@ I'm a tech enthusiast currently pursuing my graduate studies in AI and data scie
 - Exploring the intersection of tech and environmental sustainability
 - 
 - ### 📫 Contact Me
-- **Email:** [email@example.com](mailto:sshahi20@umd.edu)
-- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/suryodaya-bikram-shahi-051a4b234)
+- **Email:** mailto:sshahi20@umd.edu
+- **LinkedIn:** linkedin.com/in/suryodaya-bikram-shahi-051a4b234
 - **Portfolio:** [YourWebsite.com](http://yourwebsite.com)
